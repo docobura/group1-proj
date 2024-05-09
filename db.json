@@ -1,0 +1,124 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "name": "Margherita Pizza",
+        "category": "Pizza",
+        "description": "Classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+        "price": 9.99,
+        "image": "https://images.pexels.com/photos/2233348/pexels-photo-2233348.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 2,
+        "name": "Spaghetti Bolognese",
+        "category": "Pasta",
+        "description": "Spaghetti pasta served with homemade Bolognese sauce made with ground beef, tomatoes, and herbs.",
+        "price": 12.99,
+        "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "category": "Salad",
+        "description": "Fresh romaine lettuce tossed in Caesar dressing with croutons and Parmesan cheese.",
+        "price": 8.49,
+        "image": "https://images.pexels.com/photos/6107787/pexels-photo-6107787.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 4,
+        "name": "Grilled Chicken Sandwich",
+        "category": "Sandwich",
+        "description": "Grilled chicken breast served on a toasted bun with lettuce, tomato, and mayo.",
+        "price": 10.99,
+        "image": "https://images.pexels.com/photos/5490920/pexels-photo-5490920.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+        "id": 5,
+        "name": "Chocolate Brownie Sundae",
+        "category": "Dessert",
+        "description": "Warm chocolate brownie topped with vanilla ice cream, whipped cream, and chocolate sauce.",
+        "price": 6.99,
+        "image": "https://images.pexels.com/photos/6605961/pexels-photo-6605961.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 6,
+        "name": "Vegetable Stir-Fry",
+        "category": "Entree",
+        "description": "Fresh mixed vegetables stir-fried in a savory sauce, served over steamed rice.",
+        "price": 11.49,
+        "image": "https://images.pexels.com/photos/19902301/pexels-photo-19902301/free-photo-of-veggie-salad-on-white-plate.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 7,
+        "name": "Mushroom Risotto",
+        "category": "Entree",
+        "description": "Creamy risotto cooked with mushrooms, onions, garlic, and Parmesan cheese.",
+        "price": 13.99,
+        "image": "https://images.pexels.com/photos/11190138/pexels-photo-11190138.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 8,
+        "name": "Shrimp Scampi",
+        "category": "Seafood",
+        "description": "Juicy shrimp sautéed in garlic butter and white wine sauce, served over linguine pasta.",
+        "price": 15.99,
+        "image": "https://images.pexels.com/photos/4969892/pexels-photo-4969892.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 9,
+        "name": "Greek Salad",
+        "category": "Salad",
+        "description": "Mixed greens topped with feta cheese, olives, tomatoes, cucumbers, and Greek dressing.",
+        "price": 9.99,
+        "image": "https://images.pexels.com/photos/4963955/pexels-photo-4963955.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 10,
+        "name": "BBQ Bacon Burger",
+        "category": "Burger",
+        "description": "Grilled beef patty topped with crispy bacon, cheddar cheese, BBQ sauce, lettuce, and tomato.",
+        "price": 11.99,
+        "image": "https://images.pexels.com/photos/6107766/pexels-photo-6107766.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 11,
+        "name": "Chicken Alfredo",
+        "category": "Pasta",
+        "description": "Fettuccine pasta tossed in creamy Alfredo sauce with grilled chicken breast and Parmesan cheese.",
+        "price": 14.49,
+        "image": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 12,
+        "name": "Caprese Panini",
+        "category": "Sandwich",
+        "description": "Grilled panini filled with fresh mozzarella cheese, tomatoes, basil, and balsamic glaze.",
+        "price": 9.99,
+        "image": "https://images.pexels.com/photos/1885578/pexels-photo-1885578.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 13,
+        "name": "Photo soup",
+        "category": "Soup",
+        "description": "Traditional Vietnamese soup made with beef broth, rice noodles, sliced beef, and fresh herbs.",
+        "price": 10.99,
+        "image": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 14,
+        "name": "Tiramisu",
+        "category": "Dessert",
+        "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers, mascarpone cheese, and cocoa powder.",
+        "price": 7.99,
+        "image": "https://images.pexels.com/photos/7783246/pexels-photo-7783246.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 15,
+        "name": "Hawaiian Pizza",
+        "category": "Pizza",
+        "description": "Pizza topped with tomato sauce, mozzarella cheese, ham, pineapple, and bacon.",
+        "price": 11.49,
+        "image": "https://images.pexels.com/photos/19977746/pexels-photo-19977746/free-photo-of-pizza-and-tea.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ]
+}
