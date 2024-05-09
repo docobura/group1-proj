@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.menu{
+  display:flex ;
+  flex-wrap: wrap;
+}
+.card{
+  height: 300px;
+  width: 200px;
+  margin: 20px;
+}
+.card img{
+  height: 150px;
+  width: 150x;
+}
+.button {
+  background-color: #007bff; /* Blue background color */
+  color: #ffffff; /* White text color */
+  padding: 10px 20px; /* Padding around the button text */
+  border: none; /* Remove border */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Show pointer cursor on hover */
+  text-decoration: none; /* Remove default link underline */
+  font-size: 16px; /* Font size */
+}
